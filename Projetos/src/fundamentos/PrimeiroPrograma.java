@@ -21,6 +21,6 @@ public class PrimeiroPrograma {
 
      */
 
-    // Use sempre comentários com moderação quando realmente existe necessidade!
+    // Use comentários com moderação quando realmente existe necessidade!
 
 }
